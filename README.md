@@ -25,3 +25,6 @@ Members of the team and their Github.com names are shown below:
 The data set in use is taken from from [figshareAPI](https://doi.org/10.6084/m9.figshare.14096681.v3), it was created by Tomas Beuzen.
 
  
+## License
+
+The project uses the MIT License. The data accessed is available through CC BY 4.0.

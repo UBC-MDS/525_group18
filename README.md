@@ -26,9 +26,9 @@ TBA
 
 ## Contributors
 
-Members of the team and their Github.com names are shown below: 
+Members of the team and their Github username are shown below: 
 
-| Name                | Github.com name |
+| Name                | Github username |
 |---------------------|-----------------|
 | Deepak Sidhu | @deepaksidhu      |
 |  Zhenrui Yu   | @yzr1996    |
